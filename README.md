@@ -19,8 +19,8 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 1.  **Clone the Snake game repository:**
 
     ```bash
-    git clone Snake
-    cd Snake
+    git clone https://github.com/FINN-2005/Snake-Clone.git
+    cd Snake-Clone
     ```
 
 2.  **Install the `pygame_template` framework from GitHub:**
@@ -28,7 +28,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
     * **Note:** As `pygame_template` is not available on PyPI, you will need to install it directly from my GitHub repository. The command will look something like this:
 
         ```bash
-        pip install git+[https://github.com/FINN-2005/pygame_template.git](https://github.com/FINN-2005/pygame_template.git)
+        pip install git+https://github.com/FINN-2005/pygame_template.git
         ```
 
 ## How to Run
@@ -36,7 +36,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 1.  Navigate to the project directory (if you haven't already):
 
     ```bash
-    cd Snake
+    cd Snake-Clone
     ```
 
 2.  Run the game:
