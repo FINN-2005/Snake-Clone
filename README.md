@@ -50,14 +50,3 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 * The visuals in this project are generated at runtime.
 * This project is built upon my custom `pygame_template` framework, which needs to be installed directly from my GitHub repository as outlined in the Installation section.
 
-## Potential Improvements (Future Considerations)
-
-* Add scoring and difficulty scaling.
-* Include sound effects.
-* Implement different game modes.
-* Refactor code for better organization and readability.
-* Publish `pygame_template` to PyPI for easier installation.
-
-## Contact
-
-[Your Name/GitHub Profile URL/Email Address (Optional)]
