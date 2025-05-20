@@ -1,4 +1,4 @@
-from mine.pygame_template import *
+from pygame_template import *
 
 
 CELL_SIZE = 40
